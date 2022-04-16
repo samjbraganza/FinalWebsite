@@ -115,7 +115,7 @@ body {
 }
 
 .rightmenu2 {
-    top: 829px;
+    top: 529px;
     bottom: 64px;
     right: 5px;
     width: 400px;
@@ -128,7 +128,7 @@ body {
 }
 
 .rightmenu3 {
-    top: 1429px;
+    top: 1129px;
     bottom: 64px;
     right: 5px;
     width: 400px;
@@ -166,4 +166,19 @@ p {
     /* background-repeat: no-repeat; */
      /* background-position: center; */
 
+}
+
+.rightmenu4 {
+  top: 1429px;
+  bottom: 64px;
+  right: 5px;
+  width: 400px;
+  height: 75px;
+  position:absolute;
+  background-color: rgba(228, 222, 222, 0.9);
+  text-align: center;
+  border-radius: 15px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+ 
 }
